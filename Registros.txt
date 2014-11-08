@@ -1,0 +1,58 @@
+TIPOMASCOTA	PERRO											
+TIPOMASCOTA	GATO											
+TIPOMASCOTA	HAMSTER											
+TIPOMASCOTA	PERICO											
+TIPOMASCOTA	MONO											
+TIPOMASCOTA	CERDO											
+TIPOMASCOTA	CABALLO											
+TIPOMASCOTA	POLLO											
+TIPOMASCOTA	IGUANA											
+TIPOMASCOTA	TORTUGA											
+												
+COLORMASCOTA	NEGRO											
+COLORMASCOTA	GRIS											
+COLORMASCOTA	BLANCO											
+COLORMASCOTA	CAFE											
+COLORMASCOTA	ROJO											
+COLORMASCOTA	NARANJA											
+COLORMASCOTA	AMARILLO											
+COLORMASCOTA	VERDE											
+COLORMASCOTA	AZUL											
+COLORMASCOTA	MORADO											
+												
+ASOCIACION	APPANNE	2279-2065	info@appanne.org									
+ASOCIACION	FUNDE	2279-3100	info@funde.com.gt									
+ASOCIACION	Médicos Sin Fronteras 	2235-8895	oficina-madrid@madrid.msf.org									
+ASOCIACION	Aldeas infantiles SOS	2645-9855	aldeasinfantiles@aldeasinfantiles.es									
+ASOCIACION	Asociación REMAR	2256-6661	info@remar.org									
+ASOCIACION	Hospicio de Huérfanos de San José	2221-0619	info@hhsj.or.cr									
+												
+CASACUNA	[GATO, PERRO]	[GRANDE, MUY GRANDE]	SI									
+CASACUNA	[GATO, PERRO, HAMSTER]	[MUY PEQUEÑO, PEQUEÑO]	NO									
+CASACUNA	[GATO, TORTUGA]	[PEQUEÑO, MEDIANO]	NO									
+CASACUNA	[PERRO, HAMSTER]	[MUY PEQUEÑO, PEQUEÑO, MEDIANO]	SI									
+												
+USUARIO	Juan	Figueres	Sancho	8955-6321	jfsensual@gmail.com	4	NO	jfigsan	12345	0		
+USUARIO	Pedro	Gutiérrez	Saavedra	4577-3362	elsabio@hotmail.es	2	NO	pguuu	54321			
+USUARIO	Ximena	Lavey	Yglesias	2369-5411	ximeO.O_666@estudiantec.cr	5	NO	xlavey	555555	1		
+USUARIO	Tatiana	Balidoy	Peterson	2034-9999	thebestpopcorn@aol.com	1	SI	tatibap	qwerty	2		
+USUARIO	Yuan	Ming	Castrillo	9654-1058	freespirit42@yahoo.it	1	SI	mingca	asdfg	3		
+USUARIO	Abrielle	Swann	N!xao	6540-2571	aswann@racsa.co.cr	3	NO	swabiii	zxcvbnm	4		
+												
+MASCOTA	PERRO	Mi guau guau	 	NEGRO	perro1.jpg	PERDIDO	San Jose	Wed Oct 16 00:00:00 CEST 2013	500	Lindo	0	GRANDE
+MASCOTA	MONO	Juanca Gonzales	AF6468JH	CAFE	elnecio.jpg	ENCONTRADO	Heredia	Tue Oct 15 00:10:45 CEST 2013	9000	Me caia mal	4	GRANDE
+MASCOTA	GATO	Misi		AMARILLO	lacosabella.png	FALLECIDO	Cartago	Wed Oct 16 09:45:10 CEST 2013	100000	Muy loco	1	GRANDE
+MASCOTA	PERICO	Lechuguis	DD6464VT	VERDE	CompetenciaPericos23.png	ENADOPCION	Barrio Amon	Fri Oct 18 12:00:00 CEST 2013	32000	No vuela	3	GRANDE
+MASCOTA	TORTUGA	Torti Linda	B715646Q	ROJO	tortiiii.jpg	ENADOPCION	La Carpio	Wed Oct 16 00:00:00 CEST 2013	66600	Viejisimo	2	GRANDE
+
+ADOPCION	3	1	[foto1.jpg, foto2.jpg, foto3.jpg]
+ADOPCION	4	3	[yo con mi nueva mascota.png, la amo.jpg]
+
+DONACION	500000	3	0
+DONACION	1000000000	1	1
+DONACION	888888	1	2
+DONACION	6544	2	3
+DONACION	548484	3	4
+DONACION	4	4	3
+DONACION	55555	5	2
+DONACION	5	4	1
